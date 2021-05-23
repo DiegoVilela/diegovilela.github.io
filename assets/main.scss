@@ -2,14 +2,44 @@
 ---
 @import "minima";
 
+:root {
+    --custom-link: #426D54;
+    --custom-link-visited: #5A8559;
+}
+
+body {
+    color: #424242;
+}
+
+.site-title, .site-title:visited {
+    color: var(--custom-link);
+}
+
+.site-nav .page-link {
+    color: var(--custom-link);
+}
+
+a {
+    color: var(--custom-link);
+}
+
+a:hover {
+    color: var(--custom-link);
+}
+
+a:visited {
+    color: var(--custom-link-visited);
+}
+
 .site-header .wrapper {
     padding-top: 9px;
 }
 
 h1 {
+    padding-bottom: 10px;
     border-bottom: 5px solid #424242;
 }
 
-h2:not(.footer-heading) {
+.post-content h2 {
     margin-top: 40px;
 }

@@ -39,7 +39,7 @@ timezone: America/Sao_Paulo
 
 header_pages:
   - about.md
-  - portfolio.md
+  #- portfolio.md
   - contact.md
 
 # Exclude from processing.
@@ -62,14 +62,9 @@ header_pages:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-
 defaults:
   - scope:
       path: ""
       type: "posts"
     values:
       layout: "post"
-  - scope:
-      path: ""
-    values:
-      layout: "default"

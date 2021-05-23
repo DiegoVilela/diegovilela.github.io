@@ -7,7 +7,7 @@ permalink: /about/
 ## Who I am
 Hi, I'm Diego. Welcome to my site.
 
-I'm a Python Developer and full-stack web development learner <a href="https://www.betrybe.com/formacao-desenvolvimento-web" target="_blank">Trybe</a>.
+I'm a Python Developer and full-stack web development learner at <a href="https://www.betrybe.com/formacao-desenvolvimento-web" target="_blank">Trybe</a>.
 
 I'm based in <a href="https://en.wikipedia.org/wiki/Rio_de_Janeiro%E2%80%93S%C3%A3o_Paulo_Megalopolis" target="_blank">Rio-Sao Paulo axis</a>, Brazil.
 
@@ -16,8 +16,7 @@ I'm based in <a href="https://en.wikipedia.org/wiki/Rio_de_Janeiro%E2%80%93S%C3%
 interested in <a href="https://www.rust-lang.org/" target="_blank">Rust</a> and <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">Javascript</a>.
 
 I mostly use the <a href="https://www.djangoproject.com/" target="_blank">Django</a> web framework in my projects and <a href="https://getbootstrap.com/" target="_blank">Bootstrap</a> 
-for the front-end. <a href="https://htmx.org/" target="_blank">HTMX</a> has caught my attention and I'm looking forward to 
-using it in production as it works very smoothly with the Django template system.
+for the front-end. <a href="https://htmx.org/" target="_blank">htmx</a> has caught my attention and I'm looking forward to using it in production as it works very smoothly with the Django template system.
 
 I use <a href="https://docs.docker.com/" target="_blank">Docker</a> during development and usually deploy to <a href="https://docs.aws.amazon.com/" target="_blank">AWS</a> (EC2 with elastic IP address, ECR to store built images, and RDS to serve <a href="https://www.postgresql.org/" target="_blank">Postgres</a> databases), <a href="https://aws.amazon.com/elasticbeanstalk/" target="_blank">Elastic Beanstalk</a> or <a href="https://devcenter.heroku.com/" target="_blank">Heroku</a>.
 
