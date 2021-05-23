@@ -21,8 +21,7 @@
 title: Diego Vilela
 email: vilelaphp@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Python Developer | Full-stack web development learner @Trybe |
-  Open-source enthusiast and GNU/Linux heavy user.
+  Python Developer | Full-stack web development learner @Trybe
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://diegovilela.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: diego_vilela
